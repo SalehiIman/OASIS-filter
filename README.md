@@ -7,4 +7,5 @@ While using image dataset it would turn into a tidious work to find each peactur
 - for both directories (image source and final image) add a description to tha pop up file 
 - add another measure to categories based on person, object, . ..
 - we neeed 2 version of the coded: 1- wit **GUI** 2- without it 
+- ![](image.png)
 -
