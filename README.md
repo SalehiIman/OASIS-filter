@@ -11,6 +11,7 @@ While using image dataset it would turn into a tidious work to find each peactur
 -use html to control size 
 
   <center><img src="https://user-images.githubusercontent.com/48652270/133885239-6fa4fa53-65cc-4555-8701-f0961414cfbe.png" alt="drawing" style="width:400px"></center>
-<div style="text-align: center;">
-<img src="https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg">
-</div>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
