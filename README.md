@@ -10,4 +10,4 @@ While using image dataset it would turn into a tidious work to find each peactur
 ![image](https://user-images.githubusercontent.com/48652270/133885239-6fa4fa53-65cc-4555-8701-f0961414cfbe.png)
 -use html to control size 
 
-  <center><img src="https://user-images.githubusercontent.com/48652270/133885239-6fa4fa53-65cc-4555-8701-f0961414cfbe.png" alt="drawing" style="width:400px;"/>
+  <center><img src="https://user-images.githubusercontent.com/48652270/133885239-6fa4fa53-65cc-4555-8701-f0961414cfbe.png" alt="drawing" style="width:400px;"/></center>
