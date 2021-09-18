@@ -4,3 +4,5 @@
 - this code was written for windows, it can be develope for other OSs
 - for both directories (image source and final image) add a description to tha pop up file 
 - add another measure to categories based on person, object, . ..
+- we neeed 2 version of the coded: 1- wit **GUI** 2- without it 
+-
