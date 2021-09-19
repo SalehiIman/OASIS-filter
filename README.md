@@ -9,5 +9,5 @@ While using image dataset it would turn into a tidious work to find each peactur
 Run each file and follow 5 main steps described in figure-1.
 <p align="center">
   <img width="600" height="400" src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg'>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption style="align">Fig.1 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</figcaption>
 </p>
