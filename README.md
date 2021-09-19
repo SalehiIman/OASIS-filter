@@ -11,3 +11,6 @@ Run each file and follow 5 main steps described in figure-1.
   <img width="600" height="400" src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg'>
   <figcaption style="align">Fig.1 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</figcaption>
 </p>
+
+<img style="display: block; margin: 0 auto;" src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg' width="400" height="300">
+<p style="text-align: center;">Fig.1 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</p>
