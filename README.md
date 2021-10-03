@@ -12,3 +12,6 @@ Run each file and follow 5 main steps described in figure-1.
   <figcaption align="center">Fig.1 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</figcaption>
 </p>
 
+## To modify:
+change the caption for figure to : 'Image ratings in circumplex space, with valence (measured on a 1–7 Likert scale) on the x-axis and arousal (also measured on a 1–7 Likert
+scale) on the y-axis'
