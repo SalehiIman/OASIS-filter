@@ -1,6 +1,6 @@
 # OASIS-filter
 ## application:
-While using affective image database, it would turn into a tثdious work to find each peacture according to its normative ratings (affective dimensions like valence and arousal), listed in a information sheet. I wrote a code to do so without beeing required to select each picture individually; simply put, you can select the interval on a graph depicting circumplex space  which would define your subcategory of images) and by selecting a folder, this code would copy all of those images to this folder as well as renaming them to your desirable list of names (e.g. f1,...,fn)
+While using affective image database, it would turn into a tedious work to find each peacture according to its normative ratings (affective dimensions like valence and arousal), listed in a information sheet. I wrote a code to do so without beeing required to select each picture individually; simply put, you can select the interval on a graph (fig1.depicting circumplex space  which would define your subcategory of images) and by selecting a folder, this code would copy all of those images to this folder as well as renaming them to your desirable list of names (e.g. f1,...,fn)
 ![plot](https://user-images.githubusercontent.com/48652270/136055798-84fb3cdd-4aa8-455f-b886-bd6c9baeb1c7.png)
 
 ## Add or  modify in the current code:
