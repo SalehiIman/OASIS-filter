@@ -17,4 +17,4 @@ Run each file and follow 5 main steps described in figure-1.
 scale) on the y-axis'
 - add another measure to categories based on person, object, . ..
 - we neeed 2 versions of the code: 1- with **GUI** 2- without it 
-[^fn1]: Contra Krycho, ¶15, who has everything _quite_ wrong.
+[^fn1]: Kurdi B, Lozano S, Banaji MR. Introducing the Open Affective Standardized Image Set (OASIS). Behav Res Methods. 2017 Apr;49(2):457-470. doi: 10.3758/s13428-016-0715-3. PMID: 26907748.
