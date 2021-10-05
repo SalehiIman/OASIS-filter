@@ -6,10 +6,10 @@ While using affective image database, it would turn into a tedious work to find 
 ![plot](https://user-images.githubusercontent.com/48652270/136055798-84fb3cdd-4aa8-455f-b886-bd6c9baeb1c7.png)
 
 ## How to use it:
-Run each file and follow 5 main steps described in figure-1.
+Run each file and follow 5 main steps described in figure-2.
 <p align="center">
   <img width="600" height="400" src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg'>
-  <figcaption align="center">Fig.1 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</figcaption>
+  <figcaption align="center">Fig.2 - Stages for selecting the limits of valence and arousal and select images from dataset based on the defined limits.</figcaption>
 </p>
 
 ## To modify:
