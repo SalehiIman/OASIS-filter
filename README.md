@@ -4,22 +4,24 @@
 While using affective image database, it would turn into a tedious work to find each peacture according to its normative ratings (affective dimensions like valence and arousal), listed in a information sheet. I wrote a code to do so without beeing required to select each picture individually; simply put, you can select the interval on a graph (fig1.depicting circumplex space  which would define your subcategory of images) and by selecting a folder, this code would copy all of those images to this folder as well as renaming them to your desirable list of names (e.g. f1,...,fn)
 ![plot](https://user-images.githubusercontent.com/48652270/136055798-84fb3cdd-4aa8-455f-b886-bd6c9baeb1c7.png)
 
+<p align = "center">
+<img src='https://user-images.githubusercontent.com/48652270/136055798-84fb3cdd-4aa8-455f-b886-bd6c9baeb1c7.png'>
+</p>
+<p align = "center">
+Fig.1 - Stages for setting a range for valence and arousal and select images from database based on the defined limits
+</p>
+
 ## Open Affective Standardized Image Set (OASIS):
 Open Affective Standardized Image Set (OASIS), is an open-access online stimulus set containing 900 color images depicting a broad spectrum of themes, including humans, animals, objects, and scenes, along with normative ratings on two affective dimensions—valence (i.e., the degree of positive or negative affective response that the image evokes) and arousal (i.e., the intensity of the affective response that the image evokes). The OASIS images, along with normative valence and arousal ratings, are available for download from www.benedekkurdi.com/#oasis. [^fn1]
 
 ## How to use it:
 Run each file and follow 5 main steps described in figure-2.
-<p align="center">
-  <img width="600" height="400" src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg'>
-  <figcaption align="center">Fig.2 - Stages for setting a range for valence and arousal and select images from database based on the defined limits.</figcaption>
-</p>
-
 
 <p align = "center">
-<img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
+<img src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg'>
 </p>
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+Fig.2 - Stages for setting a range for valence and arousal and select images from database based on the defined limits
 </p>
 
 
