@@ -15,11 +15,12 @@ Run each file and follow 5 main steps described in figure-2.
 </p>
 
 
-<figure>
-<img src='https://user-images.githubusercontent.com/48652270/133934879-bda7673a-4ef6-4d06-8889-e66a56038b61.jpg' alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
-</figure>
-
+<p align = "center">
+<img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 
 ## To modify:
