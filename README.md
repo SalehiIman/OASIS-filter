@@ -11,7 +11,7 @@ Fig.1 - Stages for setting a range for valence and arousal and select images fro
 
 
 ## Open Affective Standardized Image Set (OASIS):
-Open Affective Standardized Image Set (OASIS), is an open-access online stimulus set containing 900 color images depicting a broad spectrum of themes, including humans, animals, objects, and scenes, along with normative ratings on two affective dimensions—valence (i.e., the degree of positive or negative affective response that the image evokes) and arousal (i.e., the intensity of the affective response that the image evokes). The OASIS images, along with normative valence and arousal ratings, are available for download from www.benedekkurdi.com/#oasis. [^fn1]
+Open Affective Standardized Image Set (OASIS), is an open-access online stimulus set containing 900 color images depicting a broad spectrum of themes, including humans, animals, objects, and scenes, along with normative ratings on two affective dimensions—valence (i.e., the degree of positive or negative affective response that the image evokes) and arousal (i.e., the intensity of the affective response that the image evokes). The OASIS images, along with normative valence and arousal ratings, are available for download from https://osf.io/6pnd7/ or www.benedekkurdi.com/#oasis. [^fn1]
 
 ## How to use it:
 Run each file and follow 5 main steps described in figure-2.
