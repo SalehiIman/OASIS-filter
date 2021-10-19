@@ -24,7 +24,4 @@ Fig.2 - Stages for setting a range for valence and arousal and selecting images 
 </p>
 
 
-## To modify
-- Add another measure to categories based on person, object, . ..
-- We need 2 versions of the code: 1- with **GUI** 2- without it 
 [^fn1]: Kurdi B, Lozano S, Banaji MR. Introducing the Open Affective Standardized Image Set (OASIS). Behav Res Methods. 2017 Apr;49(2):457-470. doi: 10.3758/s13428-016-0715-3. PMID: 26907748.
